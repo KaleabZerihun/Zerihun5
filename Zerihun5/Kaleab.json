@@ -1,0 +1,23 @@
+[
+{"Number":0,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":1,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":2,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":3,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":4,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":5,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":6,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":7,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":8,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":9,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":10,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":11,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":12,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":13,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":14,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":15,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":16,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":17,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":18,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":19,"Visited":false,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]},
+{"Number":20,"Visited":true,"AdjVertices":[false, true, false, true, false, true, false,true,false,false,true,false,true,false,true,false,true,true,true, true, false]}
+]
